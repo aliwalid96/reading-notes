@@ -12,3 +12,9 @@
 
 ## Code 401 - Advanced Software Development
 
+
+the subject| link |
+---|---
+mindst | [mindset](minset.md)|
+ comand line | [comandlines](comandline.md) |
+ 
