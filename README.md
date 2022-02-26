@@ -17,4 +17,6 @@ the subject| link |
 ---|---
 mindst | [mindset](minset.md)|
  comand line | [comandlines](comandline.md) |
+ sql | [sql](SQLPage.md)|
  
+
