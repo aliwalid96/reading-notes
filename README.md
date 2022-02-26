@@ -18,5 +18,6 @@ the subject| link |
 mindst | [mindset](minset.md)|
  comand line | [comandlines](comandline.md) |
  sql | [sql](SQLPage.md)|
- 
+ read 01 | [read01](read01.md)|
+
 
