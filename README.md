@@ -19,5 +19,11 @@ mindst | [mindset](minset.md)|
  comand line | [comandlines](comandline.md) |
  sql | [sql](SQLPage.md)|
  read 01 | [read01](read01.md)|
+ whiteboard | [whiteboard](https://github.com/aliwalid96/data-structures-and-algorithms/blob/main/README.md)|
+read 02 | [read02](read02.md)|
+
+
+
+ 
 
 
