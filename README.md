@@ -22,6 +22,8 @@ mindst | [mindset](minset.md)|
  whiteboard | [whiteboard](https://github.com/aliwalid96/data-structures-and-algorithms/blob/main/README.md)|
 read 02 | [read02](read02.md)|
 read 03 | [read03](read03.md)|
+read 04| [read04](read04.md)|
+
 
 
 
