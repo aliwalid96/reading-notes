@@ -23,6 +23,8 @@ mindst | [mindset](minset.md)|
 read 02 | [read02](read02.md)|
 read 03 | [read03](read03.md)|
 read 04| [read04](read04.md)|
+read 05| [read05](read05.md)|
+
 
 
 
