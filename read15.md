@@ -95,4 +95,4 @@ Trees can have any number of children per node, but Binary Trees restrict the nu
 If Nodes are able have more than 2 child nodes, we call the tree that contains them a K-ary Tree.
 ## Breadth First Traversal
 
-    
+
