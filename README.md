@@ -40,6 +40,12 @@ read17| [read 17 ](read17.md)|
 read18| [read 18 ](read18.md)|
 read19| [read 19 ](read19.md)|
 read20| [read 20 ](read20.md)|
+read29| [read 29 ](read29.md)|
+hash table| [hash table ](read30.md)|
+read 31| [read 31 ](read31.md)|
+read 32| [read 32 ](read32.md)|
+read 33| [read 33 ](read33.md)|
+read 33 graph| [read 34 graph ](read34.md)|
 
 
 
