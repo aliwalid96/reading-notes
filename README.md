@@ -46,6 +46,10 @@ read 31| [read 31 ](read31.md)|
 read 32| [read 32 ](read32.md)|
 read 33| [read 33 ](read33.md)|
 read 33 graph| [read 34 graph ](read34.md)|
+read 35| [read 35 ](read35.md)|
+read 36| [read 36 ](read36.md)|
+read 37| [read 37 ](read37.md)|
+
 
 
 
